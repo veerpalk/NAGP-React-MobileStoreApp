@@ -1,0 +1,322 @@
+
+{
+    "mobiles":[
+      {
+        "id":1,
+        "modelName":"iPhone 12",
+        "modelNumber": "MX9R2HN/A",
+        "price": 85000,
+        "color": "White",
+        "screenSize":"11.94 cm (4.7 inch)",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://my-techspace.com/wp-content/uploads/2020/05/apple-iphone-12-pro-max-2020-800x800.jpg"
+      },
+      {
+        "id":2,
+        "modelName":"iPhone 11",
+        "modelNumber": "A2111",
+        "price": 73600,
+        "color": "White",
+        "screenSize":"6.1-inch Liquid Retina",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1567022175704"
+    
+      },
+      {
+        "id":3,
+        "modelName":"Redmi Note 6 Pro",
+        "modelNumber": "A2111",
+        "price": 11999,
+        "color": "Blue",
+        "screenSize":"6.26 inch",
+        "operatingSystem":"Android Oreo 8.1",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"redmi",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61aN9OgjYcL._SL1500_.jpg"
+    
+      },
+      {
+        "id":4,
+        "modelName":"Redmi K20 Pro",
+        "modelNumber": "MZB7753IN",
+        "price": 29900,
+        "color": "Glacier Blue",
+        "screenSize":"6.39 inch Full HD",
+        "operatingSystem":"Android Pie 9.0",
+        "ram":"8GB",
+        "storage":"256 GB",
+        "category":"redmi",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/726C6F49-9E52-3576-132C-76F9D2E08D25.jpg"
+    
+      },
+      {
+        "id":5,
+        "modelName":"iPhone 12",
+        "modelNumber": "MX9R2HN/A",
+        "price": 65000,
+        "color": "White",
+        "screenSize":"11.94 cm (4.7 inch)",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://my-techspace.com/wp-content/uploads/2020/05/apple-iphone-12-pro-max-2020-800x800.jpg"
+      },
+      {
+        "id":6,
+        "modelName":"iPhone 11",
+        "modelNumber": "A2111",
+        "price": 53600,
+        "color": "White",
+        "screenSize":"6.1-inch Liquid Retina",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1567022175704"
+    
+      },
+      {
+        "id":7,
+        "modelName":"Redmi Note 6 Pro",
+        "modelNumber": "A2111",
+        "price": 69999,
+        "color": "Blue",
+        "screenSize":"6.26 inch",
+        "operatingSystem":"Android Oreo 8.1",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"redmi",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61aN9OgjYcL._SL1500_.jpg"
+    
+      },
+      {
+        "id":8,
+        "modelName":"Redmi K20 Pro",
+        "modelNumber": "MZB7753IN",
+        "price": 19900,
+        "color": "Glacier Blue",
+        "screenSize":"6.39 inch Full HD",
+        "operatingSystem":"Android Pie 9.0",
+        "ram":"8GB",
+        "storage":"256 GB",
+        "category":"redmi",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/726C6F49-9E52-3576-132C-76F9D2E08D25.jpg"
+    
+      },
+      {
+        "id":8,
+        "modelName":"iPhone 12",
+        "modelNumber": "MX9R2HN/A",
+        "price": 85000,
+        "color": "White",
+        "screenSize":"11.94 cm (4.7 inch)",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://my-techspace.com/wp-content/uploads/2020/05/apple-iphone-12-pro-max-2020-800x800.jpg"
+      },
+      {
+        "id":9,
+        "modelName":"iPhone 11",
+        "modelNumber": "A2111",
+        "price": 73600,
+        "color": "White",
+        "screenSize":"6.1-inch Liquid Retina",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1567022175704"
+    
+      },
+      {
+        "id":10,
+        "modelName":"Redmi Note 6 Pro",
+        "modelNumber": "A2111",
+        "price": 11999,
+        "color": "Blue",
+        "screenSize":"6.26 inch",
+        "operatingSystem":"Android Oreo 8.1",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"redmi",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61aN9OgjYcL._SL1500_.jpg"
+    
+      },
+      {
+        "id":11,
+        "modelName":"Redmi K20 Pro",
+        "modelNumber": "MZB7753IN",
+        "price": 29900,
+        "color": "Glacier Blue",
+        "screenSize":"6.39 inch Full HD",
+        "operatingSystem":"Android Pie 9.0",
+        "ram":"8GB",
+        "storage":"256 GB",
+        "category":"redmi",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/726C6F49-9E52-3576-132C-76F9D2E08D25.jpg"
+    
+      },
+      {
+        "id":12,
+        "modelName":"iPhone 12",
+        "modelNumber": "MX9R2HN/A",
+        "price": 65000,
+        "color": "White",
+        "screenSize":"11.94 cm (4.7 inch)",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://my-techspace.com/wp-content/uploads/2020/05/apple-iphone-12-pro-max-2020-800x800.jpg"
+      },
+      {
+        "id":13,
+        "modelName":"iPhone 11",
+        "modelNumber": "A2111",
+        "price": 53600,
+        "color": "White",
+        "screenSize":"6.1-inch Liquid Retina",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1567022175704"
+    
+      },
+      {
+        "id":14,
+        "modelName":"Nokia",
+        "modelNumber": "A2111",
+        "price": 49999,
+        "color": "Blue",
+        "screenSize":"6.26 inch",
+        "operatingSystem":"Android Oreo 8.1",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"nokia",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61aN9OgjYcL._SL1500_.jpg"
+    
+      },
+      {
+        "id":15,
+        "modelName":"Samsung",
+        "modelNumber": "MZB7753IN",
+        "price": 18900,
+        "color": "Glacier Blue",
+        "screenSize":"6.39 inch Full HD",
+        "operatingSystem":"Android Pie 9.0",
+        "ram":"8GB",
+        "storage":"256 GB",
+        "category":"Samsung",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/726C6F49-9E52-3576-132C-76F9D2E08D25.jpg"
+    
+      },
+      {
+        "id":16,
+        "modelName":"iPhone 11",
+        "modelNumber": "A2111",
+        "price": 73600,
+        "color": "White",
+        "screenSize":"6.1-inch Liquid Retina",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1567022175704"
+    
+      },
+      {
+        "id":17,
+        "modelName":"Redmi Note 6 Pro",
+        "modelNumber": "A2111",
+        "price": 11999,
+        "color": "Blue",
+        "screenSize":"6.26 inch",
+        "operatingSystem":"Android Oreo 8.1",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"redmi",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61aN9OgjYcL._SL1500_.jpg"
+    
+      },
+      {
+        "id":18,
+        "modelName":"Redmi K20 Pro",
+        "modelNumber": "MZB7753IN",
+        "price": 29900,
+        "color": "Glacier Blue",
+        "screenSize":"6.39 inch Full HD",
+        "operatingSystem":"Android Pie 9.0",
+        "ram":"8GB",
+        "storage":"256 GB",
+        "category":"redmi",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/726C6F49-9E52-3576-132C-76F9D2E08D25.jpg"
+    
+      },
+      {
+        "id":19,
+        "modelName":"iPhone 12",
+        "modelNumber": "MX9R2HN/A",
+        "price": 65000,
+        "color": "White",
+        "screenSize":"11.94 cm (4.7 inch)",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://my-techspace.com/wp-content/uploads/2020/05/apple-iphone-12-pro-max-2020-800x800.jpg"
+      },
+      {
+        "id":20,
+        "modelName":"iPhone 11",
+        "modelNumber": "A2111",
+        "price": 53600,
+        "color": "White",
+        "screenSize":"6.1-inch Liquid Retina",
+        "operatingSystem":"iOS 13",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"iPhone",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1567022175704"
+    
+      },
+      {
+        "id":21,
+        "modelName":"Nokia",
+        "modelNumber": "A2111",
+        "price": 49999,
+        "color": "Blue",
+        "screenSize":"6.26 inch",
+        "operatingSystem":"Android Oreo 8.1",
+        "ram":"6GB",
+        "storage":"64 GB",
+        "category":"nokia",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61aN9OgjYcL._SL1500_.jpg"
+    
+      },
+      {
+        "id":22,
+        "modelName":"Samsung",
+        "modelNumber": "MZB7753IN",
+        "price": 18900,
+        "color": "Glacier Blue",
+        "screenSize":"6.39 inch Full HD",
+        "operatingSystem":"Android Pie 9.0",
+        "ram":"8GB",
+        "storage":"256 GB",
+        "category":"Samsung",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/726C6F49-9E52-3576-132C-76F9D2E08D25.jpg"
+    
+      }
+    ]
+  }

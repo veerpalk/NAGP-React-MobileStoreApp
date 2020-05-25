@@ -1,0 +1,29 @@
+.navbar-dark .navbar-brand {
+    color: #fff;
+    font-size: 30px;
+}
+
+.navbar-dark .nav-item{
+    font-size: 22px;
+}
+
+.cartQuantity
+{
+    position: absolute;
+  top: 5px;
+  
+  padding: 3px 10px;
+  border-radius: 50%;
+  background: red;
+  color: white;
+}
+
+.cartNotification {
+    background-color: #555;
+    color: white;
+    text-decoration: none;
+    padding: 15px 26px;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+  }

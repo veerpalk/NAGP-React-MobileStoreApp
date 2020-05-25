@@ -1,0 +1,40 @@
+.card:hover {
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23); 
+    background-color: rgba(211, 211, 211, 0.404);
+    cursor: pointer;    
+  }
+
+  .container, .container-lg, .container-md, .container-sm, .container-xl {
+      max-width: 85% !important;
+      font-size: 24px !important;
+  }
+
+
+  .page-item{
+    cursor: pointer;
+    
+  }
+
+
+
+  .customCard{
+    width: 700px;
+    height: 400px;
+    background-color: red;
+    align-content: center;
+    margin: 30 auto !important; /* Added */
+        float: none !important; /* Added */
+        margin-bottom: 10px !important; /* Added */
+  }
+
+  .dropdown-item{
+    cursor: pointer;
+    text-decoration-color: white !important;
+  }
+  .dropdown-menu{
+    background-color: rgb(230, 230, 230) !important;
+    text-decoration-color: white !important;
+  }
+
+
+  
